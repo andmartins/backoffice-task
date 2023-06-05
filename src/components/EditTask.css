@@ -1,0 +1,81 @@
+.boxDescription {
+    background-color: #E5E5E5;
+    padding: 1rem;
+  }
+
+  .Label{
+    font-weight: 700;
+    padding: 80px;
+    width: 10px;
+  }
+
+  .LabelIdentificador{
+    font-weight: 700;
+    color: green;
+    margin: 100px;
+    width: 10px;
+  }
+
+  input{
+    font-weight: 700;
+    padding: 10px;
+    width: 80%;
+  }
+
+  select{
+    font-weight: 700;
+    padding: 10px 20px;
+    margin-left: 28px;
+    width: 5%;
+  }
+  
+    h2 {
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .task-info {
+    color: #777777;
+    margin-bottom: 0.5rem;
+  }
+
+  .inputBox {
+    min-width: 20px;
+  }
+  
+  .task-actions {
+    justify-content: flex-end;
+  }
+  
+  .task-actions button {
+    background-color: #00A1DF;
+    color: #FFFFFF;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-left: 0.5rem;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  button.coopeuch-button {
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    margin: 6px 80px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #0084B8;
+    font-size: 14px;
+    width: 150px!important;
+}
+
+
+button.coopeuch-button:hover {
+    background-color: #0084B8;
+}
+
+button.coopeuch-button:hover {
+    background-color: #000000!important;
+}

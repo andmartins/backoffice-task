@@ -1,0 +1,17 @@
+.create-task-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #00A1DF;
+    color: #FFFFFF;
+    border: none;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    cursor: pointer;
+    z-index: 9999;
+  }
+  
+  .create-task-button:hover {
+    background-color: #0084B8;
+  }
+  

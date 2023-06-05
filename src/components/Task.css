@@ -1,0 +1,95 @@
+.task {
+    background-color: #f8f7f7!important;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.task-label{
+    font-weight: 700;
+    padding-left: 10px; 
+}
+  
+.task-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+  
+.task-info {
+    color: #777777;
+    margin-bottom: 0.5rem;
+}
+  
+.task-actions {
+    justify-content: flex-end;
+}
+
+button.coopeuch-button {
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    margin: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #0084B8!important;
+    font-size: 14px;
+    min-width: 100px!important;
+}
+
+a.coopeuch-link{
+    color: #FFFFFF!important;
+    border: none;
+    padding: 8px 12px;
+    margin: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    background-color: #0084B8!important;
+    font-size: 14px;
+    min-width: 100px!important;
+
+}
+  
+button.coopeuch-button:hover {
+    background-color: #000000!important;
+}
+
+button.coopeuch-button-alert {
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    margin: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #f42534!important;
+    font-size: 14px;
+    min-width: 100px!important;
+}
+
+button.coopeuch-button-alert:hover {
+    background-color: #000000!important;
+}
+
+a.coopeuch-link:hover {
+    background-color: #000000!important;
+}
+
+p {
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    margin: 6px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #0084B8!important;
+    font-size: 14px;
+    min-width: 100px!important;    
+}
+
+h3 {
+    padding: 10px 8px;
+    color: #f42534;
+    font-weight: bold;
+}
+  
+  
