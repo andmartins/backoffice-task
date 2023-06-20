@@ -8,8 +8,8 @@ Asegúrate de tener Node.js instalado.
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/seu-usuario/meu-projeto.git`
-2. Accede al directorio del proyecto: `cd meu-projeto`
+1. Clona el repositorio: `git clone --branch develop https://github.com/andmartins/backoffice-task.git`
+2. Accede al directorio del proyecto: `cd backoffice-task`
 3. Instala las dependencias: `npm install`
 
 ## Uso
@@ -52,6 +52,10 @@ Asegúrate de tener Node.js instalado.
 - Agregar JWT
 - Agregar metodo decrypt / encrypt
 - Agregar user y profile
+<<<<<<< HEAD
+=======
+- Agregar controle de tarea
+>>>>>>> af409799210af64596e0cabca39b50dcaaf6181a
 
 ## Contribución
 
