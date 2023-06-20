@@ -14,7 +14,7 @@ describe('taskActions', () => {
             { descripcion: 'Task 1', vigente: 'A' },
             { descripcion: 'Task 2', vigente: 'A' }
         ];
-        const response = { data: { content: tasks }};
+        const response = { fecha: { content: tasks }};
         axios.get.mockResolvedValue(response);
 
         const expectedActions = [
