@@ -1,8 +1,6 @@
-Claro! Aquí tienes la traducción del texto al español:
-
 # Mi Proyecto
 
-Este es mi increíble proyecto de gestión de tareas.
+Este es mi proyecto de gestión de tareas.
 
 ## Requisitos previos
 
@@ -42,19 +40,18 @@ Asegúrate de tener Node.js instalado.
 
 ## Funcionalidades
 
-- Crea nuevas tareas
-- Lista todas las tareas
-- Edita tareas existentes
-- Elimina tareas
+- Crear nueva tarea
+- Listar todas las tareas
+- Editar tarea existente
+- Eliminar tarea
 
 ## MVP2
+- Agregar search bar
 - Agregar paginacion
 - Agregar template dark/light
 - Agregar JWT
 - Agregar metodo decrypt / encrypt
 - Agregar user y profile
-
-
 
 ## Contribución
 

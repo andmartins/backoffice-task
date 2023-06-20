@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { fetchTasks, deleteTask } from '../actions/taskActions';
+import { fetchTasks, deleteTask } from '../../actions/taskActions';
 import Task from './Task';
 
 const TaskList = () => {

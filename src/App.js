@@ -3,10 +3,10 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from './store';
 import Navbar from './components/Navbar/Navbar';
-import TaskList from './components/TaskList';
-import AddTask from './components/AddTask';
-import EditTask from './components/EditTask';
-import ViewTask from './components/ViewTask';
+import TaskList from './components/Tasks/TaskList';
+import AddTask from './components/Tasks/AddTask';
+import EditTask from './components/Tasks/EditTask';
+import ViewTask from './components/Tasks/ViewTask';
 import CreateTaskButton from './components/Button/CreateTaskButton';
 
 import { ToastContainer, toast } from 'react-toastify';
