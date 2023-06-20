@@ -1,8 +1,6 @@
-Claro! Aquí tienes la traducción del texto al español:
-
 # Mi Proyecto
 
-Este es mi increíble proyecto de gestión de tareas.
+Este es mi proyecto de gestión de tareas.
 
 ## Requisitos previos
 
@@ -10,8 +8,8 @@ Asegúrate de tener Node.js instalado.
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/seu-usuario/meu-projeto.git`
-2. Accede al directorio del proyecto: `cd meu-projeto`
+1. Clona el repositorio: `git clone --branch develop https://github.com/andmartins/backoffice-task.git`
+2. Accede al directorio del proyecto: `cd backoffice-task`
 3. Instala las dependencias: `npm install`
 
 ## Uso
@@ -48,13 +46,13 @@ Asegúrate de tener Node.js instalado.
 - Elimina tareas
 
 ## MVP2
+- Agregar search bar
 - Agregar paginacion
 - Agregar template dark/light
 - Agregar JWT
 - Agregar metodo decrypt / encrypt
 - Agregar user y profile
-
-
+- Agregar controle de tarea
 
 ## Contribución
 
